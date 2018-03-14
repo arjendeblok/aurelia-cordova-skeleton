@@ -1,3 +1,5 @@
 node_modules/**
 platforms/browser/**
 platforms/android/**
+www/app/**
+www/index.html
